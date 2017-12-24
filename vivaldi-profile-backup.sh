@@ -1,4 +1,10 @@
 #!/bin/bash
+#
+# Author: WernerFP
+# License: GPL
+# Source: https://github.com/WernerFP/vivaldi-profile-backup.sh
+# Script to backup Vivaldi browser profiles.
+
 # Please enter an existing destination directory for your backup:
 BACKUP_DIR="$HOME/Backup"
 # The other parts run automatically ...

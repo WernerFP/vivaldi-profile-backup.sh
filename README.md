@@ -15,6 +15,6 @@ The script handles Vivaldi browser profiles in these directories:
 ~/.config/vivaldi-snapshot/
 ```
 
-Are Vivaldi profiles moved to a different location and there is only a symlink of the profile directory in `~/.config`, the files to which the symlink points will be saved.
+If Vivaldi profiles are moved to a different location and there is only a symlink of the profile directory in `~/.config`, the files to which the symlink points will be saved.
 
 Profiles created with `--user-data-dir` at a different location are ignored by the script.
